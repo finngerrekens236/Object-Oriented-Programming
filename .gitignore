@@ -1,3 +1,14 @@
 *.lnk
 desktop.ini
 Thumbs.db
+
+# Ruwe/tussenbestanden (te groot voor Claude project context)
+cpp-cursus/meta.json
+cpp-cursus/transcript_volledig.md
+cpp-cursus/chunks/
+cpp-cursus/progress.md
+cpp-cursus/verificatie.md
+# Duplicaat: samenvoeging van cpp-cursus/hoofdstukken/
+cpp-cursus/cpp_cursus_aantekeningen.md
+# Snelkoppelingen
+*.url
