@@ -25,5 +25,8 @@ Elke stap verwijst naar het hoofdstuk (H1–H19) in `cpp-cursus/cpp_cursus_aante
 | 9 | Container: array → `std::list` | ❌ STL-containers (`std::list`) komen niet aan bod |
 | 10 | Inheritance | ✅ H18 (+ H19 polymorphism) |
 | 11 | Function template | ✅ H15 (+ H16 concepts) |
+| 12 | Virtual functions (alleen op de echte midterm, nog niet precies uitgelegd) | ✅ H19 Polymorphism |
+
+**Echte midterm (19-11-2026):** thema complexe getallen, stap 1–7 gedaan. Stap 8–12 staan in [`../midterm/README.md`](../midterm/README.md).
 
 **Gaten om apart te leren:** `operator>>`, overige operator overloading (`+`, `<`, `[]`) en `std::list` (plus `push_back`, iterators, `remove_if`).
