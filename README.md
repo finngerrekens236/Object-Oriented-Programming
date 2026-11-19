@@ -5,7 +5,7 @@ Wekelijkse check-in: donderdag 10:00, lab B320. Toetsen: midterm en final exam, 
 
 ## Huidige status (19-11-2026)
 - **Midterm gemaakt:** stap 1–7 gedaan (thema complexe getallen).
-- **Volgende keer / final exam:** stap 8–12, zie [`midterm/README.md`](midterm/README.md).
+- **Volgende keer / final exam:** stap 8–12, zie [C-programming-course/midtermexam](https://github.com/finngerrekens236/C-programming-course/tree/main/midtermexam).
   - 8: overloaded `operator>>` (en `<<`)
   - 9: array → `std::list`
   - 10: inherited class met boven-/ondergrens van de absolute value
@@ -13,7 +13,7 @@ Wekelijkse check-in: donderdag 10:00, lab B320. Toetsen: midterm en final exam, 
   - 12: virtual functions (nog navragen bij de prof)
 
 ## Inhoud
-- `midterm/` – ingeleverde midtermcode en de stappen die nog moeten
+- Midtermcode + stappen 8–12: in de repo [C-programming-course/midtermexam](https://github.com/finngerrekens236/C-programming-course/tree/main/midtermexam)
 - `oefententamens/` – origineel voorbeeld van de prof (breuken) + 4 oefententamens en dekkingsoverzicht
 - `cpp-cursus/hoofdstukken/` – aantekeningen per hoofdstuk (H1–H19)
 - `mail met de info.txt` – oorspronkelijke instructies van de prof

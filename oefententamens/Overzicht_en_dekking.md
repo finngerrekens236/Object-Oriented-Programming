@@ -27,6 +27,6 @@ Elke stap verwijst naar het hoofdstuk (H1–H19) in `cpp-cursus/cpp_cursus_aante
 | 11 | Function template | ✅ H15 (+ H16 concepts) |
 | 12 | Virtual functions (alleen op de echte midterm, nog niet precies uitgelegd) | ✅ H19 Polymorphism |
 
-**Echte midterm (19-11-2026):** thema complexe getallen, stap 1–7 gedaan. Stap 8–12 staan in [`../midterm/README.md`](../midterm/README.md).
+**Echte midterm (19-11-2026):** thema complexe getallen, stap 1–7 gedaan. Stap 8–12 staan in [C-programming-course/midtermexam](https://github.com/finngerrekens236/C-programming-course/tree/main/midtermexam).
 
 **Gaten om apart te leren:** `operator>>`, overige operator overloading (`+`, `<`, `[]`) en `std::list` (plus `push_back`, iterators, `remove_if`).
